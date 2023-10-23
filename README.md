@@ -1,4 +1,4 @@
-<!doctype html>
+
 <html>
 <head>
     <title>Resume - Trevor Milan</title>
